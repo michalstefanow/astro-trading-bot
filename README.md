@@ -2,6 +2,10 @@
 
 A modern, AI-powered trading signal generator that combines technical analysis with AI insights and real-time news sentiment. Get intelligent trading signals for forex, crypto, and precious metals with automated WhatsApp notifications.
 
+$$ 📩 Contact
+
+If you have any question or offer for me, please contact me hereL [Telegram](https://t.me/mooneagle1_1)
+
 ## ✨ Features
 
 ### 🔍 **Smart Signal Generation**
